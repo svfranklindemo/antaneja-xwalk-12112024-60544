@@ -1,8 +1,7 @@
 {
   "mappings": [
-    "/content/xsc-xwalk-site/:/",
-    "/content/xsc-xwalk-site/metadata.json:/metadata.json",
-    "/content/xsc-xwalk-site/redirects.json:/redirects.json",
-    "/content/xsc-xwalk-site/configuration.json:/configuration.json"
+    "/content/antaneja/antaneja-2024-11-12-11-35-41/:/",
+    "/content/antaneja/antaneja-2024-11-12-11-35-41/metadata.json:/metadata.json",
+    "/content/antaneja/antaneja-2024-11-12-11-35-41/redirects.json:/redirects.json"
   ]
 }
